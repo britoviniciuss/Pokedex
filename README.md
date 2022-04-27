@@ -4,7 +4,7 @@
 <p align="center">
     <li><a href="#descript">Description</a></li>
     <li><a href="#work">Working</a></li>
-    <li><a href="#tec">Tecnologias</a></li>
+    <li><a href="#tec">Technologies</a></li>
 
 <br>
 <hr size="">
@@ -23,7 +23,7 @@
 <br>
 <hr size="">
 
-<h3 id="tec">Tecnologias</h3>
+<h3 id="tec">Technologies</h3>
 <br>
 
 this project was created using pure <b>Pyhton</b>
