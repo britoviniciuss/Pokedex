@@ -10,7 +10,7 @@
 <hr size="">
 
 <h3 id="descript">Description</h3>
-<p>Project created using only pyton.</p>
+<p>Project created using only python.</p>
 <p>
     The project was created using OOP, the consumption of an API from the website <a href="https://pokeapi.co">https://pokeapi.co</a>, finally an interface was made for better user interaction.</p>
 <br>
@@ -26,7 +26,7 @@
 <h3 id="tec">Technologies</h3>
 <br>
 
-this project was created using pure <b>Pyhton</b>
+this project was created using pure <b>Python</b>
 
 
 
